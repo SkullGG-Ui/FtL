@@ -4,33 +4,33 @@
  "logo": "",
  "keywords": [
    "telegram",
-   "FiletoLinkBot"
+   "opensource"
   ],
- "repository": "https://github.com/SkullGG-Ui/TG-Files-to-Link",
+ "repository": "https://github.com/SkullGG-Ui/FtL",
  "env": {
    "TG_API_ID": {
-      "description": "Your Telegram API ID. Get this value from my.telegram.org!",
+      "description": "API ID. my.telegram.org!",
       "value": ""
   },
    "TG_API_HASH": {
-      "description": " Your Telegram API hash. Get this value from my.telegram.org!",
+      "description": " API hash.  my.telegram.org!",
       "value": ""
   },
    "TG_SESSION_NAME": {
-      "description": "Run Console this (python3 GenerateStringSession.py) ",
+      "description": "Run ",
       "value": ""
   },
    "HOST": {
-      "description": "Leave the Same Value",
+      "description": "LTSV",
       "value": "0.0.0.0",
       "required": false
   },
    "PUBLIC_URL": {
-      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
+      "description": "App URL",
       "value": ""
   },
    "TG_START_MESG": {
-      "description": "Set /start Message",
+      "description": "Greetings",
       "value": ""
   }
  }
