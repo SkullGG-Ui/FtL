@@ -1,12 +1,12 @@
 {
- "name": "TG Files to Link",
- "description": "Telegram files to Direct link!!",
- "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
+ "name": "The Bot",
+ "description": "GGLK",
+ "logo": "",
  "keywords": [
    "telegram",
    "FiletoLinkBot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/SkullGG-Ui/TG-Files-to-Link",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
